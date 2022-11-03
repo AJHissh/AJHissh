@@ -2,7 +2,7 @@
 
 I'm a Tech Enthusiast who is contantly learning 🤘 
 
-**| CS50 | eJPT | IBM Cybersecurity |**
+**| CS50 | eJPT | Security+ | IBM Cybersecurity |**
 
 ![Windows-0078D6](https://user-images.githubusercontent.com/74668676/197877034-54888128-8667-4eb1-8e16-100ad6ca8fef.svg)
 ![Linux-FCC624](https://user-images.githubusercontent.com/74668676/197877040-56f61d23-c74f-40c7-a1c4-6906f9fc06ad.svg)
