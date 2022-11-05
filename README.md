@@ -16,7 +16,7 @@ I'm a Tech Enthusiast who is contantly learning 🤘
 
 
 
-- 🔭 *I’m currently working on Security+*
+- 🔭 *I’m currently studying towards my OSCP
 - 🌱 *I’m currently learning Web Development and Cybersecurity*
 - 🤔 *I’m looking for help with anything and everything!*
 
