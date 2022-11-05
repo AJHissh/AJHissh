@@ -16,9 +16,9 @@ I'm a Tech Enthusiast who is contantly learning 🤘
 
 
 
-- 🔭 *I’m currently studying towards my OSCP
-- 🌱 *I’m currently learning Web Development and Cybersecurity*
-- 🤔 *I’m looking for help with anything and everything!*
+- 🔭 *I’m currently studying towards my OSCP*
+- 🌱 *Also, learning Web Development and Cybersecurity*
+- 🤔 *P.S I’m looking for help with anything and everything!*
 
 
 [![AJH Github Stats](https://github-readme-stats.vercel.app/api?username=AJHissh&count_private=true&show_icons=true&locale=en&layout=compact)](https://github.com/AJHissh)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJHissh&layout=compact)](https://github.com/AJHissh)
