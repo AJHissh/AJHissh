@@ -21,7 +21,7 @@ I'm a Tech Enthusiast who is contantly learning 🤘
 - 🤔 *P.S I’m looking for help with anything and everything!*
 
 
-[![AJH Github Stats](https://github-readme-stats.vercel.app/api?username=AJHissh&count_private=true&show_icons=true&locale=en&layout=compact)](https://github.com/AJHissh)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJHissh&layout=compact)](https://github.com/AJHissh)
+[![AJH Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AJHissh&count_private=true&show_icons=true&locale=en&layout=compact)](https://github.com/AJHissh)[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AJHissh&layout=compact)](https://github.com/AJHissh)
 
 
 
